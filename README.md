@@ -1,5 +1,5 @@
 <p>
-    <img src="plot/diagram.png">
+    <img src="Plot/diagram.png">
 </p>
 
 > Figure 1.	The architecture of mental health-related frame detection system on Indonesian-language twitter platform
