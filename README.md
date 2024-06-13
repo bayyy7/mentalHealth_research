@@ -1,6 +1,7 @@
-<p>
-    <img src="Plot/diagram.png">
+<p style="background-color: white;">
+    <img src="Plot/diagram.png" style="display: block; margin: auto;">
 </p>
+
 
 > Figure 1.	The architecture of mental health-related frame detection system on Indonesian-language twitter platform
 
