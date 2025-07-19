@@ -82,8 +82,8 @@ Our research can be accessed through this website below:
 * ...
 ```bibtex
 @misc{..,
-  doi = {...},
-  url = {...},
+  doi = {https://doi.org/10.23917/khif.v10i2.3328},
+  url = {https://journals2.ums.ac.id/index.php/khif/article/view/3328},
   author = {Indrabayu, Ardia Effendy and Basuki},
   keywords = {BERT, GPT-4, Mental Health, Topic Detection, Word-Embedding},
   title = {Automatic Categorization of Mental Health Frame in Indonesian X (Twitter) Text using Classification and Topic Detection Techniques},
